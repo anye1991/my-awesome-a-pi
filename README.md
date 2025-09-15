@@ -193,7 +193,7 @@ curl -X POST http://localhost:5000/api/exploit-chain -H "Content-Type: applicati
 
 ## 贡献与交流
 
-欢迎提交 issue/PR 反馈问题与建议。  
+欢迎来公众号交流【黑帽渗透技术】：hkjs6986 反馈问题与建议。  
 如需深度定制或技术交流请联系项目维护者。
 
 ---
