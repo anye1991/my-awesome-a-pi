@@ -1,7 +1,7 @@
-Flask
-torch
+flask
 numpy
+torch
 requests
-selenium
-tldextract
 psutil
+tldextract
+selenium
