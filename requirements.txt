@@ -1,0 +1,7 @@
+Flask
+torch
+numpy
+requests
+selenium
+tldextract
+psutil
